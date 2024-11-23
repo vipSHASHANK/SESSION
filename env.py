@@ -8,7 +8,7 @@ API_HASH = os.getenv("API_HASH", "").strip()
 BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
 MUST_JOIN = os.getenv("MUST_JOIN", "")
-ALIVE_PIC = os.getenv("ALIVE_PIC", "https://files.catbox.moe/3ni152.jpg")
+ALIVE_PIC = os.getenv("ALIVE_PIC", "https://files.catbox.moe/smngnl.jpg")
 
 
 if not API_ID:
